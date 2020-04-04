@@ -1,0 +1,50 @@
+.menu{
+    color: #7B68EE;
+    box-shadow: 1px 1px 5px rgb(221, 220, 220);
+    text-align: right;
+}
+body{
+    background-color: #f0f0f0;
+}
+
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: 130px;
+}
+
+.card{
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.card-dados{
+    margin-bottom: 10px;
+}
+
+.card-dados > label{
+    width: 100%;
+    color: #7B68EE;
+
+}
+
+.card-dados > input{
+    border-radius: 5px;
+    outline: 0;
+    width: 75%;
+    height: 20px;
+    padding: 5px;
+}
+
+.card-dados > button{
+    border-radius: 15px;
+    width: 100%;
+    background-color: 	#D3D3D3;
+    padding: 10px;
+    color: #7B68EE;
+    border: 0px;
+    outline: 0px;
+
+}
