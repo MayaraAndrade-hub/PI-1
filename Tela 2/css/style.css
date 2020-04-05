@@ -1,0 +1,61 @@
+.menu{
+    color: #7B68EE;
+    box-shadow: -3px 1px 5px rgb(221, 220, 220);
+    text-align: right;
+    margin-right: 50px;
+}
+
+body{
+    background-color: #f0f0f0;
+
+}
+
+.menu-home{
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    font-weight: 300px
+}
+
+.teste{ 
+    display: inline;
+}
+
+.teste-um{
+    padding: 9px 71px;
+    display: inline-block;
+    font-size: 25px;
+    /* visual do link */
+    background-color:#EDEDED;
+}
+
+.menu-home a:hover {
+    background-color:#D6D6D6;
+    color: purple;;
+    border-bottom:3px solid #7B68EE;
+}
+
+.angelina{
+    color: #7B68EE;
+    size: 20px;
+}
+.col-sm-4.teste{
+    margin-left: 500px;
+}
+
+.form-group.row.formulario{
+    margin-left: center;
+
+}
+.form-control.area{
+   margin-left: 228px;
+   margin-right: 200px;
+}
+.btn.btn-primary{
+    background: #7B68EE;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+.cadastro-equipamento{
+    margin-left: 100px;
+}
